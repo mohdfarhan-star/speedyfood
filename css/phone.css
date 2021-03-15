@@ -1,0 +1,18 @@
+body{
+    color: black;
+}
+/*Navigation*/
+#navbar{
+    flex-direction: column;
+}
+/* @media(max-width:1172px){
+
+    #services-container{
+        background-color: black;
+        font-size: 30px;
+} */
+
+
+#services{
+    flex-direction: column;
+}
